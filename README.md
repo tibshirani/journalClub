@@ -1,4 +1,4 @@
-# journalClub-2024
+# journalClub-2025
 
 
 This repository is for Stats 319 Winter 2023/2024 . Mondays 1:30-2:50
