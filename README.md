@@ -24,7 +24,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 15   |       |            | |
 |   Jan. 22   ||         |  |
 |   Jan. 29   |     |     | |
-|   Feb. 5   |       |        |  |
+|   Feb. 5   | **Breiman** (1995); **LassoNet: A Neural Network with Feature Sparsity** (https://arxiv.org/abs/1907.12207); **Efficient Generative Modeling via Penalized Optimal Transport Network** (https://arxiv.org/html/2402.10456v2). | Sophia Lu |  |
 |   Feb. 12   |    |       |   |
 |   Feb. 19   |       |   |          |
 |   Feb.  26   |      |  | |
