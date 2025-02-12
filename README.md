@@ -26,7 +26,7 @@ Also: what important work preceded the given work, and what were notable develop
 |   Jan. 29   |     |     | |
 |   Feb. 5   | **Breiman** (1995); **LassoNet: A Neural Network with Feature Sparsity** (https://arxiv.org/abs/1907.12207); **Efficient Generative Modeling via Penalized Optimal Transport Network** (https://arxiv.org/html/2402.10456v2). | Sophia Lu | Helen |
 |   Feb. 12   |  **Vork** (2008); **A Tutorial on Conformal Prediction** (https://arxiv.org/abs/0706.3188). |    Puheng Li   |  Sophie Lu |
-|   Feb. 19   |       |   |     Josh     |
+|   Feb. 19   |       |   Josh    |      |
 |   Feb.  26   | **Efron** bootstrap paper    | Helen Noel Hill |Puheng Li |
 |   Mar. 4   |        |             |  |
  |   Mar. 11   |      |       |  |
